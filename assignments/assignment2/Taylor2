@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Weekly Assignment 2</title>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p> The State of Gerrymandering by Silicon Valley Data Science explores the concept of redistricting by politicians for the sake of skewing congressional voting outcomes. The project includes color divergent maps of the United States and its district boundaries based on political party affiliation, and the authors of the study determine the level of gerrymandering through a number of analysis techniques and algorithms. The maps and graphs are aesthetically pleasing and easy to understand, making it effective at reaching audience members who may not be experts in the issue. The maps are interactive, and viewers can click on each district and pull up statistics and other analysis on each area. </p>
+	<p>The project incorporates its data sources at the bottom of the web page, categorizing the sources by type of data file and which analysis the data was used for in the study, which allows for easy further investigation by any interested reader. Attached to the web page is a blog post that explains in detail the techniques employed in order to create the maps and graphs. While the blog post provides thoughtful and easy-to-understand language and explanations, the study would have benefitted from including some of these explanations on the main web page where viewers are clicking on the map in order to read statistics. The data that appears when clicking on the map may be confusing for some readers who do not understand the terminology used in the project and who have not yet read through the blog post. The authors of the project succeed in coming to a conclusion that gerrymandering is in fact a legitimate practice used in the American political system to skew voting outcomes, while they also note the limitations of a study that analyzes such a complicated issue. http://svds.com/gerrymandering/ </p>
+</body>
+</html>
