@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mining the Web - Class 5</title>
+    <title>Mining the Web - Class 3</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="../assets/slide.css"/>
   </head>
@@ -9,19 +9,13 @@
     <textarea id="source">
 
 class:center,middle
-#Introduction to SQL
-##Let's look at earthquakes
-<!-- beginning of e block -->
+# Introduction to SQL
+## Let's look at counties
 
 ---
 
-#Add Earthquake Data from Data Library
-![img-full](../images/cdb_earthquake.png)
-##Click "Connect Dataset"
+#Add County Data from Data Library
 
----
-
-#Introduction to SQL
 ![img-full](../images/sql1.png)
 
 ---
@@ -32,47 +26,49 @@ class:center,middle
 ---
 
 #Introduction to SQL
-![img-center-40](../images/sql3.png)
+
+The `WHERE` clause filters results
+
+![img-full](../images/sql3.png)
 
 ---
 
 #Introduction to SQL
-![img-left](../images/sql4.png)
-<br>
-<br>
+
+The `WHERE` clause filters results
+
+![img-full](../images/sql4.png)
 
 ---
 
 #Introduction to SQL
---
 
-![img-left-45](../images/sql4.png)
---
+Functions change the results
 
-![img-right-45](../images/sql5.png)
-<br>
-<br>
---
-
-![img-center-75](../images/sql6.png)
-
-
+![img-left](../images/sql6.png)
 
 ---
 
-#Introduction to SQL
---
+class:center, middle
+#How do we do joins in SQL?
 
-![img-center-80](../images/sql7.png)
---
-<br>
-![img-center-40](../images/sql8.png)
+---
+
+class:center
+![img-full](../images/sql_join1.png)
+
+http://stackoverflow.com/questions/406294/left-join-and-left-outer-join-in-sql-server
 
 ---
 
 class:middle,center
-#How Many Earthquakes Occured in Each Country?
+# How Many Trees in Each County?
 
+---
+
+# Spatially Joining points with Polygons
+
+![img-center-80](../images/sql_join2.png)
 ---
 
 #Steps to Answer
@@ -89,23 +85,6 @@ class:middle,center
 2. Join the datasets together
 
 ---
-class:center, middle
-#How do we do joins in SQL?
-
----
-
-class:center
-![img-full](../images/sql_join1.png)
-
-http://stackoverflow.com/questions/406294/left-join-and-left-outer-join-in-sql-server
-
----
-
-#Joining Earthquakes with World Borders
---
-
-![img-center-80](../images/sql_join2.png)
---
 
 ##Several things going on here
 --

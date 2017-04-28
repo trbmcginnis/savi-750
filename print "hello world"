@@ -1,0 +1,7 @@
+print "hello world"
+print ("hello world")
+cats = 3
+cats
+for cat in cats:
+	print cat + cat_colors[cat]
+	

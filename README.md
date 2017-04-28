@@ -124,22 +124,24 @@ Create a second map, using new data scraped from the web or pulled via an API. W
 
 <a id="class3"></a>
 ### [Class 3 - April 18, 2016](http://fitnr.github.io/savi-750/class3/index.html)
-+ Overview of social media data
-+ Collecting social media data from APIs
-+ Introduction to Python for querying APIs
++ Introduction to the Census Factfinder
 + Introduction to SQL
-
-#### Readings
++ Introduction to Spatial SQL
 
 ### Assignments
-Complete the [SQL and PostGIS in CARTO](http://academy.carto.com/courses/04-sql-postgis.html) course.
++ Complete the [SQL and PostGIS in CARTO](http://academy.carto.com/courses/04-sql-postgis.html) course.
 Update your maps (or create a new one) using data joined from two sources
++ Work through "The Basics" at [Learn Python](http://www.learnpython.org) (you can skip "String Formatting". If you're feeling good, jump ahead to "List Comprehensions")
++ Prepare a simple draft map for your project, using one or two sources. Embed itinto an HTML file in `assignments/assignment3`. Include a short description of the sources and any processing you did (or would like to do!).
 
 <a id="class4"></a>
 ### [Class 4 - April 20, 2016](http://fitnr.github.io/savi-750/class4/index.html)
-+ Python for querying Geoclient API
-+ Spatial SQL functions
++ Python for scraping the web
 + Advanced topics TBD
+
+#### Readings
+
+* [Few Interact With Our Interactive Maps–What Can We Do About It?](http://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
 
 ---
 
@@ -209,6 +211,9 @@ Update your maps (or create a new one) using data joined from two sources
 * [Census Data Visualization Gallery](https://www.census.gov/dataviz/)
 * [IQuantNY](http://iquantny.tumblr.com/)
 * [bl.ocks](https://bl.ocks.org)
+
+#### Sublime Text
+* [Package control](https://packagecontrol.io)
 
 #### Reference
 * [Get LatLon](http://teczno.com/squares/)
